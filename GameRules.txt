@@ -1,0 +1,8 @@
+This is a  text-based single-player matching game.
+The objective of the game is to match Linux commands to appropriate descriptions of those commands.
+If a command is matched, then the player earns 1 point. 
+And if the command is not matched, then the player loses a point. 
+It is possible for a player`s points to go negative if he/she submmits a lot of wrong answers
+Before the game starts the player can select the number of match questions. 
+The game continue until the number is reached. 
+Each players profile and scores are saved to a profile.csv file at the end of game or when exit is selected.
